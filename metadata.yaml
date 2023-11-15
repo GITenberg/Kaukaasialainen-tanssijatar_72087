@@ -1,0 +1,32 @@
+_repo: Kaukaasialainen-tanssijatar_72087
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Anttila, Aarne
+    birthdate: 1892
+    deathdate: 1952
+    gutenberg_agent_id: '52671'
+    url: http://www.gutenberg.org/2009/agents/52671
+    wikipedia: https://fi.wikipedia.org/wiki/Aarne_Anttila
+creator:
+  author:
+    agent_name: Gobineau, J. A. de
+    gutenberg_agent_id: '56533'
+    url: http://www.gutenberg.org/2009/agents/56533
+description: ''
+gutenberg_issued: '2023-11-10'
+identifiers:
+  gutenberg: '72087'
+language: fi
+pgterms:marc905: 20210303015902gobineau
+pgterms:marc906: '1921'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Kaukaasialainen tanssijatar
+url: http://www.gutenberg.org/ebooks/72087
