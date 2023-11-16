@@ -8,12 +8,17 @@ contributor:
     gutenberg_agent_id: '52671'
     url: http://www.gutenberg.org/2009/agents/52671
     wikipedia: https://fi.wikipedia.org/wiki/Aarne_Anttila
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gobineau, J. A. de
     gutenberg_agent_id: '56533'
     url: http://www.gutenberg.org/2009/agents/56533
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72087#Kaukaasialainen-tanssijatar
 gutenberg_issued: '2023-11-10'
 identifiers:
   gutenberg: '72087'
